@@ -1,1 +1,1 @@
-"# SI-GuidedProject-589730-1698237841" 
+A Flask-based middleware server that inspects network packet payloads and utilizes OpenAI's GPT-3.5 natural language model to analyze the content for potential cyber threats and malicious activity. The system acts as an intelligent firewall to identify and filter harmful traffic between the user endpoint and application server.
